@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A more complete PDF version can be found here.
+
 Education
 ======
 * Ph.D. in Statistics, University of Toronto, 2021 (expected)
