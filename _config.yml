@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Lalancette"
+title                    : "Michaël Lalancette"
 title_separator          : "-"
-name                     : &name "Michael Lalancette"
+name                     : &name "Michaël Lalancette"
 description              : &description "PhD candidate in Statistics, University of Toronto"
 url                      : https://mic-lalancette.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Lalancette"
+  name             : "Michaël Lalancette"
   avatar           : "profile.png"
   bio              : "Statistics PhD candidate, University of Toronto"
   location         : "Toronto, Canada"
