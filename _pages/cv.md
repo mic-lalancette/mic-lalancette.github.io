@@ -15,6 +15,9 @@ Education
 * M.Sc. in Statistics, Université de Montréal, 2017
 * B.S. in Mathematics, Université de Montréal, 2015
 
+Scholarships and Awards
+======
+
 <!---
 Publications
 ======
@@ -37,4 +40,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
