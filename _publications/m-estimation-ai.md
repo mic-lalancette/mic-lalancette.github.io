@@ -5,7 +5,7 @@ permalink: /publication/m-estimation-ai
 excerpt: 'This paper provides theoretical tools and a new methodology for fitting flexible bivariate and spatial tail dependence models that include both asymptotic dependence and independence.'
 date: 2020-08-07
 venue: 'TBD'
-paperurl: # 'http://mic-lalancette.github.io/files/paper1.pdf'
+paperurl: 'http://mic-lalancette.github.io/files/paper1.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 [arxiv version](https://arxiv.org/abs/2008.03349)
