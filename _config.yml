@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Michaël Lalancette"
   avatar           : "profile.png"
-  bio              : |+
-   PhD Candidate in Statistics,
-   University of
-   Toron22
+  bio              : "Ph.D. Candidate in Statistics, University of Toronto"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
