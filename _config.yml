@@ -83,9 +83,8 @@ author:
   name             : "Michaël Lalancette"
   avatar           : "profile.png"
   bio              : |
-   PhD Candidate?
-   Statistical Sciences?
-   University of Toronto?
+   PhD Candidate in Statistics,
+   University of Toronto
   location         : "Toronto, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -118,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  arxiv            : "https://arxiv.org/search/math?query=Lalancette%2C+Michael&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
 
 
 # Reading Files
