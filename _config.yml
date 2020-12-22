@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michaël Lalancette"
   avatar           : "profile.png"
-  bio              : |
+  bio              : |+
    PhD Candidate in Statistics,
    University of Toronto
   location         : "Toronto, Canada"
