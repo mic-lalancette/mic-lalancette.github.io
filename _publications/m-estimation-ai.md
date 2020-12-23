@@ -1,7 +1,7 @@
 ---
 title: "Rank-based Estimation under Asymptotic Dependence and Independence, with Applications to Spatial Extremes"
 collection: publication
-status: To appear
+status: "To appear"
 permalink: /publication/m-estimation-ai
 excerpt: 'This paper provides theoretical tools and a new methodology to fit flexible bivariate and spatial tail dependence models that include both asymptotic dependence and independence.'
 date: 2020+-08-07
