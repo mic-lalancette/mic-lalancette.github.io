@@ -1,10 +1,10 @@
-title: "A second paper"
-collection: collection 2
-status: "status 2"
-permalink: /publication/paper2
+title: 'A second paper'
+collection: 'collection 2'
+status: 'status 2'
+permalink: '/publication/paper2'
 excerpt: 'Some excerpt'
-date: 2020-08-07
-venue: "journal 2"
+date: '2020-08-07'
+venue: 'journal 2'
 paperurl: 'https://arxiv.org/abs/2008.03349'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
