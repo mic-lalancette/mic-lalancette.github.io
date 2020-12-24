@@ -50,13 +50,12 @@
         {% endif %}
     -->
     
-    <p>With {{ post.coauthors }}.</p>
     {% if post.macollection == "preprint" %}
-      <p>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
+      <p>With {{ post.coauthors }}.<br>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
     {% elsif post.macollection == "accepted" %}
-      <p>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
+      <p>With {{ post.coauthors }}.<br>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
     {% elsif post.macollection == "published" %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p>With {{ post.coauthors }}.<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% endif %}
     
     <!-- <p> Test: {{post.collection}} {{post.status}} {{post.date}} {{post.venue}} {{post.paperurl}}. {{ post.status }} in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href = "{{post.paperurl}}">arXiv</a>) </p> -->
