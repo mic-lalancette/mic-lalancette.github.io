@@ -1,6 +1,7 @@
 ---
 title: "Rank-based Estimation under Asymptotic Dependence and Independence, with Applications to Spatial Extremes"
-collection: publications
+coauthors: "S. Engelke and S. Volgushev"
+collection: "publications"
 macollection: "accepted"
 # status: "To appear"
 permalink: /publication/m-estimation-ai
