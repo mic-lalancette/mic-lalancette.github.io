@@ -56,6 +56,7 @@
       <p>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
     {% elsif post.macollection == "published" %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% endif %}
     
     <!-- <p> Test: {{post.collection}} {{post.status}} {{post.date}} {{post.venue}} {{post.paperurl}}. {{ post.status }} in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href = "{{post.paperurl}}">arXiv</a>) </p> -->
 
