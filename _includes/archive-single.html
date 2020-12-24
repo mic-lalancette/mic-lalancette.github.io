@@ -50,6 +50,7 @@
         {% endif %}
     -->
     
+    <p>With {{ post.coauthors }}.</p>
     {% if post.macollection == "preprint" %}
       <p>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
     {% elsif post.macollection == "accepted" %}
