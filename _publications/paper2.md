@@ -1,7 +1,8 @@
 ---
 title: 'A second paper'
-collection: 'collection 2'
-status: 'status 2'
+collection: "publications"
+macollection: "collection 2"
+# status: 'status 2'
 permalink: '/publication/paper2'
 excerpt: 'Some excerpt'
 date: '2020-08-07'
