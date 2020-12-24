@@ -1,5 +1,5 @@
 title: "A second paper"
-collection: "collection 2"
+collection: collection 2
 status: "status 2"
 permalink: /publication/paper2
 excerpt: 'Some excerpt'
