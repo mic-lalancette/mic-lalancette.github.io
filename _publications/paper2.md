@@ -1,3 +1,4 @@
+---
 title: 'A second paper'
 collection: 'collection 2'
 status: 'status 2'
