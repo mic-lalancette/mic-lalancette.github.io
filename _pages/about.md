@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 text
-Some title
+
+Some title2
 =
 I am a Ph.D. candidate in the Department of Statistical Sciences at the University of Toronto, where I am supervised by Prof. Stanislav Volgushev.
 
