@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Some info...
+text
+Some title
+=
+I am a Ph.D. candidate in the Department of Statistical Sciences at the University of Toronto, where I am supervised by Prof. Stanislav Volgushev.
 
 Research
 ======
