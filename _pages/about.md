@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a Ph.D. candidate in the Department of Statistical Sciences at the University of Toronto since September 2017, where I am supervised by Prof. Stanislav Volgushev. Prior to joining Toronto, I completed a B.Sc. in Mathematics and a M.Sc. in Statistics at the Université de Montréal.
+Welcome to my homepage! I am a Ph.D. candidate in the <a href="https://www.statistics.utoronto.ca/"> Department of Statistical Sciences </a>, University of Toronto since September 2017, where I am supervised by Prof. Stanislav Volgushev. Prior to joining Toronto, I completed a B.Sc. in Mathematics and a M.Sc. in Statistics in the <a href="https://dms.umontreal.ca/"> Departement of Mathematics and Statistics </a>, Université de Montréal.
 
 Research
 ======
