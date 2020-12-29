@@ -39,7 +39,7 @@ A more complete PDF version can be found here.
   <ul>{% for post in site.talks reversed %}
     <!-- {% include archive-single-talk-cv.html %} -->
     <li>
-      "{{post.title}}." {{post.type}} at {{post.venue}.<br>
+      "{{post.title}}." {{post.type}} at {{post.venue}.
       {{post.location}}. {{post.date}}.
     </li>
   {% endfor %}</ul>
