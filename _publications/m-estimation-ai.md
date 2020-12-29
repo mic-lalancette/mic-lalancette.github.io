@@ -10,6 +10,7 @@ authors:
   3:
     firstname: "Stanislav"
     lastname: "Volgushev"
+authorsshort: "Lalancette, M., Engelke, S. and Volgushev, S."
 coauthors: "S. Engelke and S. Volgushev"
 collection: "publications"
 macollection: "accepted"
