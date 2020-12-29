@@ -24,23 +24,21 @@ A more complete PDF version can be found here.
     <li>Second scholarship</li>
   </ul>
 
-##Publications
+<h2>Publications</h2>
   <ul>{% for post in site.publications reversed %}
     <!-- {% include archive-single-cv.html %} -->
     <li>{{post.coauthors}}{{post.title}}</li>
   {% endfor %}</ul>
 
-Talks
-======
+<h2>Talks</h2>
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
+
+<h2>Teaching</h2>
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<h2>Service and leadership</h2>
   
-Service and leadership
-======
