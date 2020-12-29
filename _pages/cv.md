@@ -27,7 +27,10 @@ A more complete PDF version can be found here.
 <h2>Publications</h2>
   <ul>{% for post in site.publications reversed %}
     <!-- {% include archive-single-cv.html %} -->
-    <li>{{post.coauthors}}{{post.title}}</li>
+    <li>
+      {{post.authorsshort}} "{{post.title}}."
+      {% if post.macollection == "accepted" %} {{post.venue}}, {{ post.date | default: "1900-01-01" | date: "%Y" }}+
+    </li>
   {% endfor %}</ul>
 
 <h2>Talks</h2>
