@@ -28,7 +28,7 @@ A more complete PDF version can be found here.
   <ul>{% for post in site.publications reversed %}
     <!-- {% include archive-single-cv.html %} -->
     <li>
-      {{post.authorsshort}} "{{post.title}}."
+      {{post.authorsshort}} "<b>{{post.title}}</b>."
       {% if post.macollection == "accepted" %}
         To appear in <i>{{post.venue}}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+.
       {% endif %}
