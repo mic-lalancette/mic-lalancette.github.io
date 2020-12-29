@@ -24,11 +24,10 @@ A more complete PDF version can be found here.
     <li>Second scholarship</li>
   </ul>
 
-Publications
-======
+##Publications
   <ul>{% for post in site.publications reversed %}
     <!-- {% include archive-single-cv.html %} -->
-    <li>{{post.title}}</li>
+    <li>{{post.coauthors}}{{post.title}}</li>
   {% endfor %}</ul>
 
 Talks
