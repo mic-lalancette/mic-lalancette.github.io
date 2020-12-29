@@ -30,7 +30,7 @@ A more complete PDF version can be found here.
     <li>
       {{post.authorsshort}} "{{post.title}}."
       {% if post.macollection == "accepted" %}
-        To appear in <i>{{post.venue}}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+.
+        To appear in <i>{{post.venue}}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+
       {% endif %}
     </li>
   {% endfor %}</ul>
