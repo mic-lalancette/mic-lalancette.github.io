@@ -11,8 +11,7 @@ redirect_from:
 
 A more complete PDF version can be found here.
 
-Education
-======
+<h2>Education</h2>
 * Ph.D. in Statistics, University of Toronto, 2021 (expected)
 * M.Sc. in Statistics, Université de Montréal, 2017
 * B.S. in Mathematics, Université de Montréal, 2015
