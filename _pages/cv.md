@@ -29,7 +29,9 @@ A more complete PDF version can be found here.
     <!-- {% include archive-single-cv.html %} -->
     <li>
       {{post.authorsshort}} "{{post.title}}."
-      {% if post.macollection == "accepted" %} {{post.venue}}, {{ post.date | default: "1900-01-01" | date: "%Y" }}+
+      {% if post.macollection == "accepted" %}
+        {{post.venue}}, {{ post.date | default: "1900-01-01" | date: "%Y" }}+
+      {% endif %}
     </li>
   {% endfor %}</ul>
 
