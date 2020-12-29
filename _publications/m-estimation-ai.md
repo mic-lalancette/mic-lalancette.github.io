@@ -1,5 +1,15 @@
 ---
 title: "Rank-based Estimation under Asymptotic Dependence and Independence, with Applications to Spatial Extremes"
+authors:
+  1:
+    firstname: "Michaël"
+    lastname: "Lalancette"
+  2:
+    firstname: "Sebastian"
+    lastname: "Engelke"
+  3:
+    firstname: "Stanislav"
+    lastname: "Volgushev"
 coauthors: "S. Engelke and S. Volgushev"
 collection: "publications"
 macollection: "accepted"
