@@ -19,6 +19,10 @@ Education
 
 Scholarships and Awards
 ======
+  <ul>
+  <li>First scholarship</li>
+  <li>Second scholarship</li>
+  </ul>
 
 Publications
 ======
