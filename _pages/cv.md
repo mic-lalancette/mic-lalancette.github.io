@@ -37,7 +37,11 @@ A more complete PDF version can be found here.
 
 <h2>Talks</h2>
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
+    <!-- {% include archive-single-talk-cv.html %} -->
+    <li>
+      "{{post.title}}." {{post.type}} at {{post.venue}.<br>
+      {{post.location}}. {{post.date}}.
+    </li>
   {% endfor %}</ul>
 
 <h2>Teaching</h2>
