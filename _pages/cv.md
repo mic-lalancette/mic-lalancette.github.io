@@ -28,7 +28,7 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     <!-- {% include archive-single-cv.html %} -->
-    <li>{{post.title}}
+    <li>{{post.title}}</li>
   {% endfor %}</ul>
 
 Talks
