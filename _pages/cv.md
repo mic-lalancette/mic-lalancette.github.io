@@ -18,7 +18,7 @@ A more complete PDF version can be found here.
     <li>B.S. in Mathematics, Université de Montréal, 2015</li>
   </ul>
 
-<h2>Scholarships and Awards</h2>
+<h2>Scholarships and awards</h2>
   <ul>
     <li>First scholarship</li>
     <li>Second scholarship</li>
@@ -35,7 +35,7 @@ A more complete PDF version can be found here.
     </li>
   {% endfor %}</ul>
 
-<h2>Talks</h2>
+<h2>Talks and presentations</h2>
   <ul>{% for post in site.talks reversed %}
     <!-- {% include archive-single-talk-cv.html %} -->
     <li>
@@ -45,7 +45,7 @@ A more complete PDF version can be found here.
     </li>
   {% endfor %}</ul>
 
-<h2>Teaching Experience</h2>
+<h2>Teaching experience</h2>
 <h3>As a course instructor</h3>
   <ul>{% for post in site.teaching reversed %}
     <li>
