@@ -40,7 +40,7 @@ A more complete PDF version can be found here.
     <!-- {% include archive-single-talk-cv.html %} -->
     <li>
       "{{post.title}}." {{post.type}} at {{post.venue}}.<br>
-      {{post.location}}. {{post.date}}.
+      {{post.location}}. {{post.date | default: "1900-01-01" }}.
     </li>
   {% endfor %}</ul>
 
