@@ -61,5 +61,10 @@ A more complete PDF version can be found here.
     </ul>
 -->
 
+<h2>Teaching Experience</h2>
+  <h3>As a course instructor</h3>
+  
+  <h3>As a teaching assistant</h3>
+
 <h2>Service and leadership</h2>
   
