@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "University of Zagreb, Zagreb, Croatia",
+    45.8644842,
+    15.8005897
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Fields Institute, Toronto, Canada",
+    43.65879595,
+    -79.39755040601011
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "McGill University, Montr\u00e9al, Canada",
+    45.50691775,
+    -73.5791162596496
   ]
 ];
