@@ -5,7 +5,7 @@ type: "Poster presentation"
 permalink: /talks/researchdayposter2019
 venue: "Statistics Graduate Student Research Day"
 date: 2019-04-25
-location: "Field Institute, Toronto, Canada"
+location: "Fields Institute, Toronto, Canada"
 ---
 
 Based on joint work with Sebastian Engelke and Stanislav Volgushev.
