@@ -59,13 +59,5 @@ A more complete PDF version can be found here.
     <li>At Université de Montréal: </li>
   </ul>
 
-<h2>Teaching Experience</h2>
-  <ul>
-    <li>
-      test
-    </li>
-  </ul>
-  <h3>As a teaching assistant</h3>
-
 <h2>Service and leadership</h2>
   
