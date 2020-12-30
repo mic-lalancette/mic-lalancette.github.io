@@ -62,7 +62,6 @@ A more complete PDF version can be found here.
 -->
 
 <h2>Teaching Experience</h2>
-  <h3>As a course instructor</h3>
     <ul>
       <li>
         test
