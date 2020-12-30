@@ -45,21 +45,19 @@ A more complete PDF version can be found here.
     </li>
   {% endfor %}</ul>
 
-<!--
 <h2>Teaching Experience</h2>
-  <h3>As course instructor</h3>
-    <ul>{% for post in site.teaching reversed %}
-      <li>
-        {{post.title}} ({{post.type}}).<br>
-        <small style="font-size:75%;">{{post.venue}}, {{post.semester}}</small>
-      </li>
-    {% endfor %}</ul>
-  <h3>As teaching assistant</h3>
-    <ul>
-      <li>At University of Toronto: Statistical Consultation, Communication, and Collaboration</li>
-      <li>At Université de Montréal: </li>
-    </ul>
--->
+<h3>As course instructor</h3>
+  <ul>{% for post in site.teaching reversed %}
+    <li>
+      {{post.title}} ({{post.type}}).<br>
+      <small style="font-size:75%;">{{post.venue}}, {{post.semester}}</small>
+    </li>
+  {% endfor %}</ul>
+<h3>As teaching assistant</h3>
+  <ul>
+    <li>At University of Toronto: Statistical Consultation, Communication, and Collaboration</li>
+    <li>At Université de Montréal: </li>
+  </ul>
 
 <h2>Teaching Experience</h2>
   <ul>
