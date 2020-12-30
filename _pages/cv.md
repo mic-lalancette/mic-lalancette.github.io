@@ -50,7 +50,7 @@ A more complete PDF version can be found here.
     <ul>{% for post in site.teaching reversed %}
       <li>
         {{post.title}} ({{post.type}}).<br>
-        <small style="font-size:75%;">{{post.location}}, {{post.semester}}</small>
+        <small style="font-size:75%;">{{post.venue}}, {{post.semester}}</small>
       </li>
     {% endfor %}</ul>
   <h3>As teaching assistant</h3>
