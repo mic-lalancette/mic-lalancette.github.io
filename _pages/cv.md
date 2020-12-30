@@ -48,7 +48,7 @@ A more complete PDF version can be found here.
 <h2>Teaching Experience</h2>
   <h3>As course instructor</h3>
     <ul>{% for post in site.teaching reversed %}
-      {% include archive-single-cv.html %}
+      <li>{% include archive-single-cv.html %}</li>
     {% endfor %}</ul>
   <h3>As teaching assistant</h3>
     <ul>
