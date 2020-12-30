@@ -19,10 +19,13 @@ A more complete PDF version can be found here.
   </ul>
 
 <h2>Scholarships and awards</h2>
-  <ul>
-    <li>First scholarship</li>
-    <li>Second scholarship</li>
-  </ul>
+  <ul>{% for post in site.awards reversed %}
+    <li>
+      {{post.title}}<br>
+      Awarded by {{post.organization}}, {{post.dates}}<br>
+      <small style="font-size:75%;">Value: {{post.value}}
+    </li>
+  {% endfor %}</ul>
 
 <h2>Publications</h2>
   <ul>{% for post in site.publications reversed %}
