@@ -40,7 +40,7 @@ A more complete PDF version can be found here.
     <!-- {% include archive-single-talk-cv.html %} -->
     <li>
       "{{post.title}}." {{post.type}} at {{post.venue}}.<br>
-      {{post.location}}. {{post.date | default: "1900-01-01" | date: "%M" }}.
+      {{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}. <!-- This format used to describe the date is the "strftime format" -->
     </li>
   {% endfor %}</ul>
 
