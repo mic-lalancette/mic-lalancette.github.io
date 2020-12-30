@@ -9,4 +9,4 @@ location: "Fields Institute, Toronto, Canada"
 ---
 
 Based on joint work with Sebastian Engelke and Stanislav Volgushev.
-See the original [poster](https://mic-lalancette.github.io/files/RD2019poster.pdf).
+See the original [poster](https://mic-lalancette.github.io/files/RD19poster.pdf).
