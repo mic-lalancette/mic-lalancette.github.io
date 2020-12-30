@@ -63,7 +63,11 @@ A more complete PDF version can be found here.
 
 <h2>Teaching Experience</h2>
   <h3>As a course instructor</h3>
-  
+    <ul>{% for post in site.teaching reversed %}
+      <li>
+        test
+      </li>
+    {% endfor %}</ul>
   <h3>As a teaching assistant</h3>
 
 <h2>Service and leadership</h2>
