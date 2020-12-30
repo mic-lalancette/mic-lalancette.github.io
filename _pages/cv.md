@@ -41,7 +41,7 @@ A more complete PDF version can be found here.
     <li>
       "{{post.title}}."<br>
       {{post.type}} at <i>{{post.venue}}.</i><br>
-      <small style = "font-size:150%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" -->
+      <small style = "font-size:75%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" -->
     </li>
   {% endfor %}</ul>
 
