@@ -41,14 +41,17 @@ A more complete PDF version can be found here.
     <li>
       "{{post.title}}."<br>
       {{post.type}} at <i>{{post.venue}}.</i><br>
-      <small style = "font-size:75%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" -->
+      <small style="font-size:75%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" -->
     </li>
   {% endfor %}</ul>
 
 <h2>Teaching Experience</h2>
   <h3>As course instructor</h3>
     <ul>{% for post in site.teaching reversed %}
-      <li>{% include archive-single-cv.html %}</li>
+      <li>
+        {{post.title}} ({{post.type}}).<br>
+        <small style="font-size:75%;">{{post.location}}, {{post.semester}}</small>
+      </li>
     {% endfor %}</ul>
   <h3>As teaching assistant</h3>
     <ul>
