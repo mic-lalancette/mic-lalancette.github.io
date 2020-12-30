@@ -45,6 +45,7 @@ A more complete PDF version can be found here.
     </li>
   {% endfor %}</ul>
 
+<!--
 <h2>Teaching Experience</h2>
   <h3>As course instructor</h3>
     <ul>{% for post in site.teaching reversed %}
@@ -58,6 +59,7 @@ A more complete PDF version can be found here.
       <li>At University of Toronto: Statistical Consultation, Communication, and Collaboration</li>
       <li>At Université de Montréal: </li>
     </ul>
+-->
 
 <h2>Service and leadership</h2>
   
