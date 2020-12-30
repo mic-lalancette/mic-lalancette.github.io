@@ -62,11 +62,11 @@ A more complete PDF version can be found here.
 -->
 
 <h2>Teaching Experience</h2>
-    <ul>
-      <li>
-        test
-      </li>
-    </ul>
+  <ul>
+    <li>
+      test
+    </li>
+  </ul>
   <h3>As a teaching assistant</h3>
 
 <h2>Service and leadership</h2>
