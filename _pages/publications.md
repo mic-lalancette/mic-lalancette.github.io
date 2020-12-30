@@ -11,6 +11,7 @@ author_profile: true
 {% endif %}
 -->
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+<br>Test: {{author.name}}, {{author.email}}
 
 {% include base_path %}
 
