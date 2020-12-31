@@ -23,7 +23,7 @@ A more complete PDF version can be found here.
     <li>
       {{post.title}}<br>
       Awarded by {{post.organization}}, {{ post.date | date: "%m/%Y" }}-{{ post.dateend | date: "%m/%Y" }}<br>
-      <small style="font-size:75%;">Value: {{post.value}}
+      <small style="font-size:75%;">Value: {{post.value}}</small>
     </li>
   {% endfor %}</ul>
 
