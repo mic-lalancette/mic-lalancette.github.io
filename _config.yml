@@ -175,6 +175,7 @@ kramdown:
 
 
 # Collections
+# I can add "types of collections", which I can call from any page, as I have for the "awards" collection
 collections:
   teaching:
     output: true
