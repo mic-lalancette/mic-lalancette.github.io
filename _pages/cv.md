@@ -22,7 +22,12 @@ A more complete PDF version can be found here.
   <ul>{% for post in site.awards reversed %}
     <li>
       {{post.title}}<br>
-      Awarded by <i>{{post.organization}}</i>, {{ post.date | date: "%m/%Y" }}-{{ post.dateend | date: "%m/%Y" }}<br>
+      Awarded by <i>{{post.organization}}</i>,
+      {% if post.dateend %}
+        {{ post.date | date: "%m/%Y" }}-{{ post.dateend | date: "%m/%Y" }}<br>
+      {% else %}
+        {{ post.date | date: "%m/%Y" }}<br>
+      {% endif %}
       <small style="font-size:75%;">Value: {{post.value}}</small>
     </li>
   {% endfor %}</ul>
