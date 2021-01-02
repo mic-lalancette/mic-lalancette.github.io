@@ -13,5 +13,10 @@ var addressPoints = [
     "McGill University, Montr\u00e9al, Canada",
     45.50691775,
     -73.5791162596496
+  ],
+  [
+    "University of Edinburgh, Edinburgh, Scotland",
+    55.9441283,
+    -3.1884063612377216
   ]
 ];
