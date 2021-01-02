@@ -54,11 +54,11 @@
     -->
     
     {% if post.macollection == "preprint" %}
-      <p>With {{ post.coauthors }}.<br>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
+      <p>With {{ post.coauthors }}.<br>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv version</a>) </p>
     {% elsif post.macollection == "accepted" %}
-      <p>With {{ post.coauthors }}.<br>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ </p>
+      <p>With {{ post.coauthors }}.<br>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv version</a>) </p>
     {% elsif post.macollection == "published" %}
-      <p>With {{ post.coauthors }}.<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p>With {{ post.coauthors }}.<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} (<a href="{{post.paperurl}}">arXiv version</a>) </p>
     {% endif %}
     
     <!-- <p> Test: {{post.collection}} {{post.status}} {{post.date}} {{post.venue}} {{post.paperurl}}. {{ post.status }} in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href = "{{post.paperurl}}">arXiv</a>) </p> -->
@@ -70,7 +70,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     -->
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}See the <a href="{{post.paperurl}}">arXiv version</a>.</p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     
     <!--
     {% if post.citation and post.paperurl %}
