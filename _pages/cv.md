@@ -57,14 +57,20 @@ A more complete PDF version can be found here.
 <h3>As a course instructor</h3>
   <ul>{% for post in site.teaching reversed %}
     <li>
-      {{post.title}} ({{post.type}}).<br>
+      {{post.title}} ({{post.type}})<br>
       <small style="font-size:75%;">{{post.venue}}, {{post.semester}}</small>
     </li>
   {% endfor %}</ul>
 <h3>As a teaching assistant</h3>
   <ul>
-    <li>At University of Toronto: Statistical Consultation, Communication, and Collaboration</li>
-    <li>At Université de Montréal: Various undergraduate courses in Statistics and Probability</li>
+    <li>
+      At University of Toronto: Statistical Consultation, Communication, and Collaboration (Undergraduate course)<br>
+      <small style="font-size:75%;">University of Toronto, Fall 2018 - Spring 2019</small>
+    </li>
+    <li>
+      Various undergraduate courses in Statistics and Probability<br>
+      <small style="font-size:75%;">Université de Montréal, Spring 2015 - Fall 2016</small>
+    </li>
   </ul>
 
 <h2>Service and leadership</h2>
