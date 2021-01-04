@@ -64,7 +64,7 @@ A more complete PDF version can be found here.
 <h3>As a teaching assistant</h3>
   <ul>
     <li>
-      At University of Toronto: Statistical Consultation, Communication, and Collaboration (Undergraduate course)<br>
+      Statistical Consultation, Communication, and Collaboration (Undergraduate course)<br>
       <small style="font-size:75%;">University of Toronto, Fall 2018 - Spring 2019</small>
     </li>
     <li>
