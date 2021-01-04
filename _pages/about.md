@@ -16,4 +16,4 @@ Outside of school, I especially enjoy making/drinking espresso and running (see 
 My current research interests lie in the estimation theory of dependence structures, mostly in the context of multivariate and spatial extreme values. I am particularly interested in methodologies for detecting tail (or asymptotic) independence between two random phenomena. I am also working on the estimation of graphical models for asymptotically dependent extremes.
 
 <h2>Contact</h2>
-If you would like to contact me about any of the above, work-related or not, please do not hesitate to send me and e-mail!
+If you would like to contact me about any of the above, work-related or not, please do not hesitate to send me an e-mail!
