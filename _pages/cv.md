@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A more complete PDF version can be found here.
+A more complete PDF version can be found <a href="/files/Lalancette_CV.pdf">here</a>.
 
 <h2>Education</h2>
   <ul>
