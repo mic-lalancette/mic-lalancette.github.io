@@ -47,7 +47,7 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
   <ul>{% for post in site.talks reversed %}
     <!-- {% include archive-single-talk-cv.html %} -->
     <li>
-      "{{post.title}}."<br>
+      "{{post.title}}"<br>
       {{post.type}} at <i>{{post.venue}}.</i><br>
       <small style="font-size:75%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" -->
     </li>
