@@ -1,7 +1,7 @@
 ---
 title: "The extremal graphical lasso"
 collection: "talks"
-type: "Seminar"
+type: "Invited seminar"
 permalink: /talks/seminarUCL21
 venue: "Institute of Statistics, Biostatistics and Actuarial Sciences"
 date: 2021-10-15
