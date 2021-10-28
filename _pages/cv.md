@@ -15,7 +15,7 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
   <ul>
     <li>Ph.D. in Statistics, University of Toronto, 2022 (expected)</li>
     <li>M.Sc. in Statistics, Université de Montréal, 2017</li>
-    <li>B.S. in Mathematics, Université de Montréal, 2015</li>
+    <li>B.Sc. in Mathematics, Université de Montréal, 2015</li>
   </ul>
 
 <h2>Scholarships and awards</h2>
