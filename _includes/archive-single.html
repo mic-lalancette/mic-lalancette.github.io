@@ -53,7 +53,7 @@
         {% endif %}
     -->
     
-    {% if post.macollection == "technical report" %}
+    {% if post.macollection == "technical_report" %}
       <p>With {{ post.coauthors }}.<br>Technical report, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>) </p>
 	{% if post.macollection == "preprint" %}
       <p>With {{ post.coauthors }}.<br>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>) </p>
