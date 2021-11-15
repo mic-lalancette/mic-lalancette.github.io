@@ -1,5 +1,5 @@
 ---
-title: "Rank-based Estimation under Asymptotic Dependence and Independence, with Applications to Spatial Extremes"
+title: "Rank-based estimation under asymptotic dependence and independence, with applications to spatial extremes"
 authors:
   1:
     firstname: "Michaël"
