@@ -18,7 +18,7 @@ macollection: "accepted"
 permalink: /publication/m-estimation-ai
 excerpt: 'This paper provides theoretical tools and a new methodology to fit flexible bivariate and spatial tail dependence models that include both asymptotic dependence and independence.'
 date: 2020-08-07
-venue: "Annals of Statistics 49(5), 2552--2576"
+venue: "Annals of Statistics 49(5), "
 paperurl: 'https://arxiv.org/abs/2008.03349'
 publishedurl: 'https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Rank-based-estimation-under-asymptotic-dependence-and-independence-with-applications/10.1214/20-AOS2046.full'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
