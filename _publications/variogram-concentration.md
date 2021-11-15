@@ -18,7 +18,7 @@ macollection: "technicalreport"
 permalink: /publication/variogram-concentration
 excerpt: 'In this technical report, we prove a sub-exponential concentration inequality for the empirical version of the extremal variogram, an object of intrest in multivariate and high-dimensional extreme value theory.'
 date: 2021-11-01
-venue: arxiv
+venue:
 paperurl: 'https://arxiv.org/abs/2111.00840'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
