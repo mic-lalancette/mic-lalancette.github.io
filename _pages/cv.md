@@ -37,11 +37,11 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
     <!-- {% include archive-single-cv.html %} -->
     <li>
       {{post.authorsshort}} "{{post.title}}" ({{ post.date | default: "1900-01-01" | date: "%Y" }}).
-	  <br><i>{{post.venue}}</i>
+	  <br>
       {% if post.macollection == "accepted" %}
-        <br>To appear in <i>{{post.venue}}</i>
+        To appear in <i>{{post.venue}}</i>
 	  {& elsif post.macollection == "published" %}
-		<br><i>{{post.venue}}</i>
+		<i>{{post.venue}}</i>
       {% endif %}
     </li>
   {% endfor %}</ul>
