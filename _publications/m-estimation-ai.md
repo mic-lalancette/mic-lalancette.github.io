@@ -13,7 +13,7 @@ authors:
 authorsshort: "Lalancette, M., Engelke, S. and Volgushev, S."
 coauthors: "S. Engelke and S. Volgushev"
 collection: "publications"
-macollection: "accepted"
+macollection: "published"
 # status: "To appear"
 permalink: /publication/m-estimation-ai
 excerpt: 'This paper provides theoretical tools and a new methodology to fit flexible bivariate and spatial tail dependence models that include both asymptotic dependence and independence.'
