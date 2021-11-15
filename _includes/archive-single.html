@@ -60,7 +60,7 @@
     {% elsif post.macollection == "accepted" %}
       <p>With {{ post.coauthors }}.<br>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>) </p>
     {% elsif post.macollection == "published" %}
-      <p>With {{ post.coauthors }}.<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>) </p>
+      <p>With {{ post.coauthors }}.<br><i>{{ post.venue }}</i> (<a href="{{post.paperurl}}">arXiv</a>) </p>
     {% endif %}
     
     <!-- <p> Test: {{post.collection}} {{post.status}} {{post.date}} {{post.venue}} {{post.paperurl}}. {{ post.status }} in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href = "{{post.paperurl}}">arXiv</a>) </p> -->
