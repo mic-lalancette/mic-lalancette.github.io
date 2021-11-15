@@ -39,6 +39,8 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
       {{post.authorsshort}} "{{post.title}}."
       {% if post.macollection == "accepted" %}
         To appear in <i>{{post.venue}}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+
+	  {& elsif post.macollection == "published" %}
+		<i>{{post.venue}}</i>
       {% endif %}
     </li>
   {% endfor %}</ul>
