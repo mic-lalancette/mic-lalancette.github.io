@@ -66,13 +66,13 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
   {% endfor %}</ul>
 <h3>As a teaching assistant</h3>
   <ul>
-    <li>
+    <!-- <li>
       Statistical Consultation, Communication, and Collaboration (Undergraduate course)<br>
       <small style="font-size:75%;">University of Toronto, Fall 2018 - Spring 2019</small>
-    </li>
+    </li> -->
     <li>
-      Various undergraduate courses in Statistics and Probability<br>
-      <small style="font-size:75%;">Université de Montréal, Spring 2015 - Fall 2016</small>
+      Various undergraduate and graduate courses in Statistics and Probability, ranging from statistical consultation to measure theoretic probability<br>
+      <small style="font-size:75%;">Université de Montréal, Spring 2015 - Fall 2016 and University of Toronto, Fall 2018 - Spring 2022</small>
     </li>
   </ul>
 
