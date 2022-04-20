@@ -3,7 +3,7 @@ title: "High-dimensional inference for extremal graphical models"
 collection: "talks"
 type: "Invited talk"
 permalink: /talks/jsm2022
-venue: "Joint Statistical Meeting 2022"
+venue: "Joint Statistical Meetings 2022"
 date: 2022-08-09
 location: "Washington, US"
 ---
