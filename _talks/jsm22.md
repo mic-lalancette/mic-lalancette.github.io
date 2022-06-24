@@ -9,4 +9,4 @@ location: "Washington, US"
 ---
 
 Based on joint work with Sebastian Engelke and Stanislav Volgushev.
-#See the [slides](https://mic-lalancette.github.io/files/slides_EVA21.pdf).
+[//]: # See the [slides](https://mic-lalancette.github.io/files/slides_EVA21.pdf).
