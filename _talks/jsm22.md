@@ -1,5 +1,5 @@
 ---
-title: "High-dimensional inference for extremal graphical models"
+title: "Learning extremal graphical structures in high dimensions"
 collection: "talks"
 type: "Invited talk"
 permalink: /talks/jsm2022

@@ -1,10 +1,10 @@
 ---
-title: "High-dimensional inference for extremal graphical models"
+title: "Learning extremal graphical structures in high dimensions"
 collection: "talks"
 type: "Contributed talk"
 permalink: /talks/ssc22
 venue: "SSC 2022 Annual Meeting"
-date: 2022-05-30
+date: 2022-06-03
 location: "Online"
 ---
 
