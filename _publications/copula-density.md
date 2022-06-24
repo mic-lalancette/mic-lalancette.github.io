@@ -12,7 +12,7 @@ coauthors: "R. Zimmerman"
 collection: "publications"
 macollection: "preprint"
 # status: "To appear"
-permalink: /publication/variogram-concentration
+permalink: /publication/copula-density
 excerpt: 'In this paper, we construct a class of copulas that have densities and uniformly bounded high order partial derivatives, but whose densities can be arbitrarily irregular. In particular, we identify a copula density that is finite but nowhere bounded.'
 date: 2022-04-09
 venue: Submitted
