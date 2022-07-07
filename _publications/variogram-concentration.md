@@ -16,7 +16,7 @@ collection: "publications"
 macollection: "preprint"
 # status: "To appear"
 permalink: /publication/variogram-concentration
-excerpt: 'In this technical report, we prove a sub-exponential concentration inequality for the empirical version of the extremal variogram, an object of intrest in multivariate and high-dimensional extreme value theory.'
+excerpt: 'This paper proposes a methodology that provably learns extremal graphical models in settings where the dimension is allowed to grow exponentially in the effective sample size. Along the way, we prove a sub-exponential concentration inequality for the empirical version of the extremal variogram, an object of intrest in multivariate and high-dimensional extreme value theory.'
 date: 2022-06-17
 venue: Submitted
 paperurl: 'https://arxiv.org/abs/2111.00840'
