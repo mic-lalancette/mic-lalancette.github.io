@@ -10,6 +10,11 @@ var addressPoints = [
     -79.39755040601011
   ],
   [
+    "Fields Institute, Toronto, Canada",
+    43.65879595,
+    -79.39755040601011
+  ],
+  [
     "McGill University, Montr\u00e9al, Canada",
     45.50691775,
     -73.5791162596496
