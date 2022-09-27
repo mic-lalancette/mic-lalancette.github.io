@@ -18,7 +18,7 @@ Welcome to my homepage! I am a postdoctoral researcher at the Technical Universi
 <br><br>
 Outside of school, I especially enjoy making/drinking espresso, listening to music and going to live concerts, and running (see my <a href="https://www.strava.com/athletes/30196526">Strava page</a>, which is not very consistent nowadays but had some more glorious days).
 
-<h4>Photo credit</h4>
+<h3>Photo credit</h3>
 
 The credit for this nice photo of myself goes to my friend Sarah Sabrina Bernardi!
 
