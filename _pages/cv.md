@@ -14,10 +14,12 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
 <h2>Education</h2>
   <ul>
     <li>
-		Ph.D. in Statistics, University of Toronto, 2022
+		Ph.D. in Statistics, University of Toronto, 2022<br>
+		Thesis: <a href="https://mic-lalancette.github.io/files/thesis_PhD.pdf">Statistical inference for tail dependence structures</a>
 	</li>
     <li>
-		M.Sc. in Statistics, Université de Montréal, 2017
+		M.Sc. in Statistics, Université de Montréal, 2017<br>
+		Thesis: <a href="https://mic-lalancette.github.io/files/thesis_MSc.pdf">Convergence d'un algorithme de type Metropolis pour une distribution cible bimodale</a>
 	</li>
     <li>
 		B.Sc. in Mathematics, Université de Montréal, 2015
