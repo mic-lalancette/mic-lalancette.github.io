@@ -86,8 +86,9 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
 
 <h2>Service and leadership</h2>
   <ul>
-    <li>I have served as a reviewer for the <a href="https://www.tandfonline.com/toc/ucgs20/current">Journal of Computational and Graphical Statistics</a>, <a href="https://www.springer.com/journal/10687">Extremes</a>, the <a href="https://rss.onlinelibrary.wiley.com/journal/14679868">Journal of the Royal Statistical Society: Series B</a> and the <a href="https://onlinelibrary.wiley.com/journal/14679469">Scandinavian Journal of Statistics</a>.</li>
-  <li>I chaired the organizing committee for the <a href="http://www.fields.utoronto.ca/activities/18-19/stats-research-day">2019 edition</a> of the Statistics Graduate Student Research Day, at the Fields Institute. Responsibilities included inviting speakers, securing space and funding, managing most of the local arrangements, supervising and animating the event.</li>
+    <li>I have served as a reviewer for the <a href="https://www.tandfonline.com/toc/ucgs20/current">Journal of Computational and Graphical Statistics</a>, <a href="https://www.springer.com/journal/10687">Extremes</a>, the <a href="https://rss.onlinelibrary.wiley.com/journal/14679868">Journal of the Royal Statistical Society: Series B</a>, the <a href="https://onlinelibrary.wiley.com/journal/14679469">Scandinavian Journal of Statistics</a> and <a href="https://academic.oup.com/biomet">Biometrika</a>.</li>
+	<li>I am an evaluator for the <a href="https://ellis.eu/">European Laboratory for Learning and Intelligent Systems</a> PhD program.</li>
+	<li>I chaired the organizing committee for the <a href="http://www.fields.utoronto.ca/activities/18-19/stats-research-day">2019 edition</a> of the Statistics Graduate Student Research Day, at the Fields Institute. Responsibilities included inviting speakers, securing space and funding, managing most of the local arrangements, supervising and animating the event.</li>
     <li>I was an executive member of my graduate student union at the Université de Montréal in 2016-2017 and at the University of Toronto in 2018-2019 (as president).</li>
   </ul>
   
