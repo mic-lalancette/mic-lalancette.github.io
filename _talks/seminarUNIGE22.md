@@ -1,5 +1,5 @@
 ---
-title: "Estimation of bivariate and spatial tail models under asymptotic dependence and independence"
+title: "Learning extremal graphical structures in high dimensions"
 collection: "talks"
 type: "Invited seminar"
 permalink: /talks/seminarUNIGE22
