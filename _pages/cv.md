@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">here</a>.
+A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 
 <h2>Education</h2>
   <ul>
@@ -40,9 +40,10 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
     </li>
   {% endfor %}</ul>
 
+<!--
 <h2>Publications</h2>
   <ul>{% for post in site.publications reversed %}
-    <!-- {% include archive-single-cv.html %} -->
+    <!-- {% include archive-single-cv.html %} - ->
     <li>
       {{post.authorsshort}} "{{post.title}}" ({{ post.date | default: "1900-01-01" | date: "%Y" }}).
 	  <br><i>{{post.venue}}</i>
@@ -50,19 +51,20 @@ A more complete PDF version can be found <a href="/files/Lalancette_CV_web.pdf">
         <br>To appear in <i>{{post.venue}}</i>
 	  {& elsif post.macollection == "published" %}
 		<br><i>{{post.venue}}</i>
-      {% endif %}-->
+      {% endif %}- ->
     </li>
   {% endfor %}</ul>
 
 <h2>Talks and presentations</h2>
   <ul>{% for post in site.talks reversed %}
-    <!-- {% include archive-single-talk-cv.html %} -->
+    <!-- {% include archive-single-talk-cv.html %} - ->
     <li>
       "{{post.title}}"<br>
       {{post.type}} at <i>{{post.venue}}.</i><br>
-      <small style="font-size:75%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" -->
+      <small style="font-size:75%;">{{post.location}}. {{post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</small> <!-- This format used to describe the date is the "strftime format" - ->
     </li>
   {% endfor %}</ul>
+-->
 
 <h2>Teaching experience</h2>
 <h3>As a course instructor</h3>
