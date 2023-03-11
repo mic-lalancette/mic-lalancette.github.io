@@ -5,6 +5,21 @@ var addressPoints = [
    9.191079
   ],
   [
+	"Ruhr-Universit\u00e4t Bochum, Bochum, Germany",
+	51.447100,
+	7.262649
+  ],
+  [
+    "Universit\u00e9 de Montr\u00e9al, Montr\u00e9al",
+    45.504956750000005,
+    -73.61453887024297
+  ],
+  [
+    "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al",
+    45.508503,
+	-73.568448
+  ],
+  [
 	"University of Duisburg-Essen, Essen, Germany",
 	51.463438,
 	7.005634
