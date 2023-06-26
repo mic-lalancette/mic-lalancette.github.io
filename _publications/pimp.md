@@ -5,6 +5,7 @@ authors:
     firstname: "Michaël"
     lastname: "Lalancette"
 authorsshort: "Lalancette, M."
+# coauthors: "R. Zimmerman"
 collection: "publications"
 macollection: "preprint"
 # status: "To appear"
