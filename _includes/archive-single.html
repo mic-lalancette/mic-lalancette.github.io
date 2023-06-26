@@ -54,9 +54,9 @@
     -->
     
 	<p>
-	{% if post.coauthors %}
+	<!--{% if post.coauthors %}
 	  With {{ post.coauthors }}.<br>
-	{% endif %}
+	{% endif %}-->
     {% if post.macollection == "technicalreport" %}
       {% if post.read_time %}Technical report, {{ post.date | default: "1900-01-01" | date: "%Y" }} (<a href="{{post.paperurl}}">arXiv</a>)
 	{% elsif post.macollection == "preprint" %}
