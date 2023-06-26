@@ -54,14 +54,18 @@
     -->
     
 	<p>
+	{% if post.coauthors %}
+	  With {{ post.coauthors }}.<br>
+	{% endif %}
+	
     {% if post.macollection == "technicalreport" %}
-      With {{ post.coauthors }}.<br>Technical report, {{ post.date | default: "1900-01-01" | date: "%Y" }} (<a href="{{post.paperurl}}">arXiv</a>)
+      {% if post.read_time %}Technical report, {{ post.date | default: "1900-01-01" | date: "%Y" }} (<a href="{{post.paperurl}}">arXiv</a>)
 	{% elsif post.macollection == "preprint" %}
-      With {{ post.coauthors }}.<br>In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>)
+      In submission, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>)
     {% elsif post.macollection == "accepted" %}
-      With {{ post.coauthors }}.<br>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>)
+      To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>)
     {% elsif post.macollection == "published" %}
-      With {{ post.coauthors }}.<br><i>{{ post.venue }}</i> (<a href="{{post.paperurl}}">arXiv</a>, <a href="{{post.publishedurl}}">published</a>{% if post.supplementurl %}, <a href="{{post.supplementurl}}">supplement</a>{% endif %})
+      <i>{{ post.venue }}</i> (<a href="{{post.paperurl}}">arXiv</a>, <a href="{{post.publishedurl}}">published</a>{% if post.supplementurl %}, <a href="{{post.supplementurl}}">supplement</a>{% endif %})
     {% endif %}
     </p>
 	
