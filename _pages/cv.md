@@ -81,7 +81,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
       <small style="font-size:75%;">University of Toronto, Fall 2018 - Spring 2019</small>
     </li> -->
     <li>
-      Various undergraduate and graduate courses, ranging from statistical consultation to measure theoretic probability<br>
+      Various undergraduate and graduate courses, ranging from statistical consulting to measure theoretic probability<br>
       <small style="font-size:75%;">Université de Montréal, Spring 2015 - Fall 2016<br>University of Toronto, Fall 2018 - Spring 2022</small>
     </li>
   </ul>
