@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+   "Memorial University, St. John's, Canada",
+   47.573537,
+   -52.734501
+  ],
+  [
+   "Universit\u00e9 Libre de Bruxelles, Brussels, Belgium",
+   50.815640,
+   4.383430
+  ],
+  [
    "Bocconi University, Milan, Italy",
    45.449010,
    9.191079
