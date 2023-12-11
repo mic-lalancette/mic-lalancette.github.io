@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michaël Lalancette"
   avatar           : "uoft_grad.jpg"
-  bio              : "Postdoctoral fellow, Technical University of Munich"
-  location         : "Munich, Germany"
+  bio              : "Professor of Statistics, Université du Québec à Montréal"
+  location         : "Montréal, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zQ5-jOQAAAAJ&hl=en&oi=ao"
-  email            : "michael.lalancette@tum.de"
+  email            : "lalancette.michael@uqam.ca"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
