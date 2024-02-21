@@ -4,7 +4,7 @@ collection: "talks"
 type: "Invited seminar"
 permalink: /talks/seminarUdeS24
 venue: "Département de mathématiques"
-date: 2023-03-16
+date: 2024-03-11
 location: "Université de Sherbrooke, Sherbrooke, Canada"
 ---
 
