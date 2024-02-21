@@ -65,6 +65,8 @@
       To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>)
     {% elsif post.macollection == "published" %}
       <i>{{ post.venue }}</i> (<a href="{{post.paperurl}}">arXiv</a>, <a href="{{post.publishedurl}}">published</a>{% if post.supplementurl %}, <a href="{{post.supplementurl}}">supplement</a>{% endif %})
+	{% elsif post.macollection == "chapter-preprint" %}
+      To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}+ (<a href="{{post.paperurl}}">arXiv</a>)
     {% endif %}
     </p>
 	
