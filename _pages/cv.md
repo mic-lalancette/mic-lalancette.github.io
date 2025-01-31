@@ -66,8 +66,20 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
   {% endfor %}</ul>
 -->
 
-<h2>Teaching experience</h2>
-<h3>As a course instructor</h3>
+<h2>Teaching</h2>
+<h3>At UQAM</h3>
+	<ul>
+		<li>
+			Computational statistics
+		</li>
+		<li>
+			Scientific communication in Statistics
+		</li>
+		<li>
+			Stochastic processes
+		</li>
+	</ul>
+<h3>At other universities</h3>
   <ul>{% for post in site.teaching reversed %}
     <li>
       {{post.title}} ({{post.type}})<br>
