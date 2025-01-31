@@ -26,7 +26,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 	</li>
   </ul>
 
-<h2>Scholarships and awards</h2>
+<h2>Grants, scholarships and awards</h2>
   <ul>{% for post in site.awards reversed %}
     <li>
       {{post.title}}<br>
