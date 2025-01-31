@@ -79,6 +79,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 			Stochastic processes
 		</li>
 	</ul>
+
 <h3>At other universities</h3>
   <ul>{% for post in site.teaching reversed %}
     <li>
@@ -86,6 +87,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
       <small style="font-size:75%;">{{post.venue}}, {{post.semester}}</small>
     </li>
   {% endfor %}</ul>
+
 <h3>As a teaching assistant</h3>
   <ul>
     <!-- <li>
