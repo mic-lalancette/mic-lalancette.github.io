@@ -4,7 +4,7 @@ collection: "talks"
 type: "Invited talk"
 permalink: /talks/journeeFP
 venue: "Journée François Perron"
-date: 2024-06-05
+date: 2024-10-18
 location: "Université de Montréal, Montréal, Canada"
 ---
 
