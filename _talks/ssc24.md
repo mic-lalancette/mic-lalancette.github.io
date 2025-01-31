@@ -1,10 +1,10 @@
 ---
-title: "On pairwise interaction multivariate Pareto models and score matching (tentative title)"
+title: "On pairwise interaction multivariate Pareto models and score matching"
 collection: "talks"
 type: "Invited talk"
 permalink: /talks/ssc2024
 venue: "SSC 2024 Annual Meeting"
-date: 2024-06-02
+date: 2024-06-05
 location: "Memorial University, St. John's, Canada"
 ---
 
