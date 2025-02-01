@@ -11,7 +11,7 @@ redirect_from:
 
 A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 
-<u><h2>Education</h2></u>
+<h2><u>Education</u></h2>
   <ul>
     <li>
 		Ph.D. in Statistics, University of Toronto, 2022<br>
@@ -66,7 +66,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
   {% endfor %}</ul>
 -->
 
-<h2>Supervision</h2>
+<h2><u>Supervision</u></h2>
 <h3>Master's students</h3>
  <ul>
   <li>Galiane Charbonneau<br>
@@ -82,7 +82,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
    <small style="font-size:75%;">Project: Adaptive learning of extremal graphical models</small></li>
  </ul>
 
-<h2>Teaching</h2>
+<h2><u>Teaching</u></h2>
 <h3>At UQAM</h3>
  <ul>
   <li>
@@ -114,7 +114,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
     </li>
   </ul>
 
-<h2>Service</h2>
+<h2><u>Service</u></h2>
   <ul>
     <li>I am the organizer of the <a href="https://statqam.uqam.ca/2024-2025/">STATQAM Statistics research seminar</a>.</li>
     <li>I have served as a reviewer for the <a href="https://www.tandfonline.com/toc/ucgs20/current">Journal of Computational and Graphical Statistics</a>, <a href="https://www.springer.com/journal/10687">Extremes</a>, the <a href="https://rss.onlinelibrary.wiley.com/journal/14679868">Journal of the Royal Statistical Society: Series B</a>, the <a href="https://onlinelibrary.wiley.com/journal/14679469">Scandinavian Journal of Statistics</a>, <a href="https://academic.oup.com/biomet">Biometrika</a>, the <a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/">Electronic Journal of Statistics</a>, <a href="https://projecteuclid.org/journals/bernoulli">Bernoulli</a> and the <a href="https://onlinelibrary.wiley.com/journal/1708945x">Canadian Journal of Statistics</a>.</li>
