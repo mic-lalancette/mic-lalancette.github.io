@@ -70,7 +70,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 <h3>Master's students</h3>
  <ul>
   <li>Galiane Charbonneau (2024 -- )</li>
-  <li>James Cuin (Imperial College London, cosupervision with Yanbo Tang)</li><br>
+  <li>James Cuin (Imperial College London, cosupervision with Yanbo Tang)<br>
   <small style="font-size:75%;">Thesis: Change Point Detection for Extremal Graphical Models (2024)</small></li>
  </ul>
 <h3>Undergraduate students</h3>
