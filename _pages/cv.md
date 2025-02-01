@@ -69,11 +69,17 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 <h2>Supervision</h2>
 <h3>Master's students</h3>
  <ul>
-  <li>Galiane Charbonneau (2024 -- )</li>
+  <li>Galiane Charbonneau</li>
   <li>James Cuin (Imperial College London, cosupervision with Yanbo Tang)<br>
-  <small style="font-size:75%;">Thesis: Change Point Detection for Extremal Graphical Models (2024)</small></li>
+   <small style="font-size:75%;">Thesis: Change Point Detection for Extremal Graphical Models (2024)</small></li>
  </ul>
 <h3>Undergraduate students</h3>
+ <ul>
+  <li>Galiane Charbonneau<br>
+   <small style="font-size:75%;">Project: Extremal latent tree models</small></li>
+  <li>Alexander Ryabchenko (University of Toronto, cosupervision with Stanislav Volgushev<br>
+   <small style="font-size:75%;">Project: Adaptive learning of extremal graphical models (tentative title)</small></li>
+ </ul>
 
 <h2>Teaching</h2>
 <h3>At UQAM</h3>
