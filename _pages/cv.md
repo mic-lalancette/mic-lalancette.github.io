@@ -11,7 +11,7 @@ redirect_from:
 
 A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 
-<h2>Education</h2>
+<u><h2>Education</h2></u>
   <ul>
     <li>
 		Ph.D. in Statistics, University of Toronto, 2022<br>
@@ -26,7 +26,7 @@ A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
 	</li>
   </ul>
 
-<h2>Grants, scholarships and awards</h2>
+<h2><u>Grants, scholarships and awards</u></h2>
   <ul>{% for post in site.awards reversed %}
     <li>
       {{post.title}}<br>
