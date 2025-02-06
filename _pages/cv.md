@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-A more complete PDF version can be found <a href="/files/cv.pdf">here</a>.
+<!-- A more complete PDF version can be found <a href="/files/cv.pdf">here</a>. -->
+A more complete PDF version of my CV can be provided on demand.
 
 <h2><u>Education</u></h2>
   <ul>
