@@ -17,7 +17,7 @@ macollection: "preprint"
 # status: "To appear"
 permalink: /publication/eglearn
 excerpt: 'This paper proposes a methodology that provably learns extremal graphical models in settings where the dimension is allowed to grow exponentially in the effective sample size. Along the way, we prove a sub-exponential concentration inequality for the empirical version of the extremal variogram, an object of intrest in multivariate and high-dimensional extreme value theory.'
-date: 2024-07-31
+date: 2025-01-28
 venue: Submitted
 paperurl: 'https://arxiv.org/abs/2111.00840'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
