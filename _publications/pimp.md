@@ -15,6 +15,7 @@ date: 2023-09-10
 venue: Stat 12(1)
 paperurl: https://arxiv.org/abs/2306.12074
 journalurl: 'https://onlinelibrary.wiley.com/doi/10.1002/sta4.613'
+publishedurl: '/files/Lalancette2023_Pairwise.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
