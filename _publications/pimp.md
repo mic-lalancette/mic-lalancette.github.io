@@ -13,7 +13,8 @@ permalink: /publication/pimp
 excerpt: 'It is shown that no multivariate Pareto model, other than the Hüsler--Reiss family, can have the structure of a pairwise interaction model.'
 date: 2023-09-10
 venue: Stat 12(1)
-paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/sta4.613'
+paperurl: https://arxiv.org/abs/2306.12074
+journalurl: 'https://onlinelibrary.wiley.com/doi/10.1002/sta4.613'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 [arxiv version](https://arxiv.org/abs/2306.12074)
