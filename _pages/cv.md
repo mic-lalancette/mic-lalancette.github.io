@@ -87,10 +87,16 @@ A more complete PDF version of my CV can be provided on demand.
 <h3>At UQAM</h3>
  <ul>
   <li>
-   Computational statistics
+   Computational Statistics
+  </li>
+  <li>
+   Introduction to Statistics
   </li>
   <li>
    Scientific communication in Statistics
+  </li>
+  <li>
+   Statistical inference
   </li>
   <li>
    Stochastic processes
@@ -117,8 +123,8 @@ A more complete PDF version of my CV can be provided on demand.
 
 <h2><u>Service</u></h2>
   <ul>
-    <li>I am the organizer of the <a href="https://statqam.uqam.ca/2024-2025/">STATQAM Statistics research seminar</a>.</li>
-    <li>I have served as a reviewer for the <a href="https://www.tandfonline.com/toc/ucgs20/current">Journal of Computational and Graphical Statistics</a>, <a href="https://www.springer.com/journal/10687">Extremes</a>, the <a href="https://rss.onlinelibrary.wiley.com/journal/14679868">Journal of the Royal Statistical Society: Series B</a>, the <a href="https://onlinelibrary.wiley.com/journal/14679469">Scandinavian Journal of Statistics</a>, <a href="https://academic.oup.com/biomet">Biometrika</a>, the <a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/">Electronic Journal of Statistics</a>, <a href="https://projecteuclid.org/journals/bernoulli">Bernoulli</a> and the <a href="https://onlinelibrary.wiley.com/journal/1708945x">Canadian Journal of Statistics</a>.</li>
+    <li>I am the organizer of the <a href="https://statqam.uqam.ca/2025-2026/">STATQAM Statistics research seminar</a> (2024-2025 and 2025-2026 academic years).</li>
+    <li>I have served as a reviewer for the <a href="https://www.tandfonline.com/toc/ucgs20/current">Journal of Computational and Graphical Statistics</a>, <a href="https://www.springer.com/journal/10687">Extremes</a>, the <a href="https://rss.onlinelibrary.wiley.com/journal/14679868">Journal of the Royal Statistical Society: Series B</a>, the <a href="https://onlinelibrary.wiley.com/journal/14679469">Scandinavian Journal of Statistics</a>, <a href="https://academic.oup.com/biomet">Biometrika</a>, the <a href="https://imstat.org/journals-and-publications/electronic-journal-of-statistics/">Electronic Journal of Statistics</a>, <a href="https://projecteuclid.org/journals/bernoulli">Bernoulli</a>, the <a href="https://onlinelibrary.wiley.com/journal/1708945x">Canadian Journal of Statistics</a>, and the <a href="https://www.sciencedirect.com/journal/journal-of-multivariate-analysis">Journal of Multivariate Analysis</a>.</li>
 	<li>I was an evaluator for the <a href="https://ellis.eu/">European Laboratory for Learning and Intelligent Systems</a> PhD program.</li>
 	<li>I chaired the organizing committee for the <a href="http://www.fields.utoronto.ca/activities/18-19/stats-research-day">2019 edition</a> of the Statistics Graduate Student Research Day, at the Fields Institute. Responsibilities included inviting speakers, securing space and funding, managing most of the local arrangements, supervising and animating the event.</li>
     <li>I was an executive member of my graduate student union at the Université de Montréal in 2016-2017 and at the University of Toronto in 2018-2019 (as president).</li>
