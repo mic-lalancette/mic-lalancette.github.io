@@ -12,8 +12,8 @@ authors:
     lastname: "Volgushev"
 authorsshort: "Engelke, S., Lalancette, M. and Volgushev, S."
 coauthors: "S. Engelke and S. Volgushev"
-collection: "accepted"
-macollection: "preprint"
+collection: "publications"
+macollection: "accepted"
 status: "To appear"
 permalink: /publication/eglearn
 excerpt: 'This paper proposes a methodology that provably learns extremal graphical models in settings where the dimension is allowed to grow exponentially in the effective sample size. Along the way, we prove a sub-exponential concentration inequality for the empirical version of the extremal variogram, an object of intrest in multivariate and high-dimensional extreme value theory.'
