@@ -12,7 +12,7 @@ authors:
     lastname: "Volgushev"
 authorsshort: "Engelke, S., Lalancette, M. and Volgushev, S."
 coauthors: "S. Engelke and S. Volgushev"
-collection: "publications"
+collection: "accepted"
 macollection: "preprint"
 status: "To appear"
 permalink: /publication/eglearn
